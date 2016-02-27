@@ -1,7 +1,7 @@
 Package.describe({
   name: 'new3rs:nico-comment-view',
   summary: 'Nico-nico like comment view',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/new3Rs/meteor-nico-comment-view.git'
 });
 
